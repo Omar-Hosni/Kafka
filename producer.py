@@ -1,4 +1,4 @@
-from kafka imoprt KafkaProducer
+from kafka import KafkaProducer
 import json 
 from data import get_register_user
 
